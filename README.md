@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello People 👋,</h1>
 
-<p>I am a Flutter Developer extraordinaire! With her magical fingers flying across the keyboard, I bring to life visually stunning and ultra-responsive mobile applications that captivate users with every tap and swipe.</p>
+<p>I am a Flutter Developer extraordinaire! With her magical fingers flying across the keyboard, I bring to life visually stunning and ultra-responsive mobile applications that captivate users with every tap and swipe. Equipped with a deep understanding of the Flutter framework, Jane takes pride in crafting seamless, cross-platform apps that deliver an unparalleled user experience. My passion for building dynamic interfaces and pushing the boundaries of mobile development is evident in every line of code I write.</p>
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
