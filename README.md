@@ -1,6 +1,6 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg7jeq76KpkuioH0SWMX5GK2GX_0DkKCkJDcnFolc132o8b1KaN5G_SomVFuO6uu0bhS4fbkV2y91Rwb5cumcI9dhK_tQu9Krbrf5tXnUzsnxRGVQP-rT67lQi6dio7PYaUxdtHR77r5xNR5_BDgdezS005uAQaM6z_ZhWwfT3TsIcmVzadEzHK9B1Gw/s16000/Rohan%20Bhai.png)](https://rishavchanda.io)
 
-<h1 align="center">Hello People 👋,</h1>
+<h1 align="center">Hello People 👋</h1>
 
 <p>I am a Flutter Developer extraordinaire! With her magical fingers flying across the keyboard, I bring to life visually stunning and ultra-responsive mobile applications that captivate users with every tap and swipe. Equipped with a deep understanding of the Flutter framework, Jane takes pride in crafting seamless, cross-platform apps that deliver an unparalleled user experience. My passion for building dynamic interfaces and pushing the boundaries of mobile development is evident in every line of code I write.</p>
 
