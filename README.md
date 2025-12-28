@@ -1,18 +1,160 @@
-# 💫 About Me:
-👋 Hi, I'm Rohaan<br><br>🔭 I'm currently working on<br>- Flutter mobile applications (Fintech, Wallets, E-commerce, Social Apps and Others)<br>- Scalable UI systems and clean architecture<br>- Freelance and product-based projects<br><br>👯 I'm looking to collaborate on<br>- Flutter & Dart projects<br>- Startup MVPs<br>- Open-source Flutter packages<br><br>🤝 I'm looking for help with<br>- Advanced Flutter performance optimization<br>- Scalable backend integrations<br>- Product growth and monetization strategies<br><br>🌱 I'm currently learning<br>- Advanced Flutter animations<br>- System design for large-scale apps<br>- Product design thinking & business strategy<br><br>💬 Ask me about<br>- Flutter (Provider, Riverpod, GetX)<br>- App architecture & UI/UX<br>- Fintech & wallet app development<br>- Turning ideas into products<br><br>⚡ Fun fact<br>- I design products, sell ideas, and then build them myself 🚀
+<!-- ===================== BRAND HEADLINE ===================== -->
+<h1 align="center">🚀 Senior Flutter Developer Who Builds Revenue-Ready Mobile Apps</h1>
 
+<h3 align="center">
+Flutter • Mobile App Architecture • Fintech • Startup MVPs • Business-Focused Engineering
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohaan-shaikh-7b01aa252) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohaan.shaikh129@gmail.com) 
+<p align="center">
+<strong>Hi, I'm Rohaan 👋</strong><br />
+Senior Flutter Developer | Mobile App Architect | Product & Business-Oriented Engineer
+</p>
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rohaan44&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rohaan44&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohaan44&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+I help <strong>startups, founders, and businesses</strong> turn ideas into
+<strong>scalable, secure, and monetizable mobile applications</strong>.
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=rohaan44&icon=0&color=0)](https://visitcount.itsvg.in)
+<hr />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ===================== CTA BUTTONS ===================== -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohaan-shaikh-7b01aa252" target="_blank">
+    <img src="https://img.shields.io/badge/Hire%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rohaan.shaikh129@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-000000?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://calendly.com/rohaan-shaikh129/new-meeting" target="_blank">
+    <img src="https://img.shields.io/badge/Book%20a%20Call-4CAF50?style=for-the-badge" />
+  </a>
+</p>
+
+<hr />
+
+<!-- ===================== TECH BADGES ===================== -->
+<p align="center">
+<!-- ===================== CORE MOBILE ===================== -->
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart" />
+
+<!-- ===================== FRONTEND ===================== -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+
+<!-- ===================== BACKEND ===================== -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+
+<!-- ===================== CLOUD & SERVICES ===================== -->
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase" />
+<img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge" />
+
+<!-- ===================== AI & AUTOMATION ===================== -->
+<img src="https://img.shields.io/badge/AI%20Integration-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Chatbot%20Integration-0A66C2?style=for-the-badge" />
+
+<!-- ===================== BUSINESS ===================== -->
+<img src="https://img.shields.io/badge/Fintech-000000?style=for-the-badge&logo=stripe" />
+<img src="https://img.shields.io/badge/Startup%20MVP-4CAF50?style=for-the-badge" />
+
+</p>
+
+<hr />
+
+<!-- ===================== RECRUITER SEO ===================== -->
+<h2>👨‍💻 For Recruiters & Hiring Managers</h2>
+
+<p>
+✔ Senior Flutter Developer with production-grade apps<br />
+✔ Experience in <strong>Fintech, Wallets, E-commerce & Social platforms</strong><br />
+✔ Clean architecture, scalability & performance optimization<br />
+✔ Strong communication & business understanding<br />
+✔ Ready for <strong>remote, freelance, or full-time roles</strong>
+</p>
+
+<hr />
+
+<!-- ===================== FOUNDER SEO ===================== -->
+<h2>🚀 For Startup Founders & Business Owners</h2>
+
+<p>
+I don’t just build apps — I help you:
+</p>
+
+<ul>
+  <li>✅ Validate ideas quickly</li>
+  <li>✅ Build MVPs fast without tech debt</li>
+  <li>✅ Design scalable architecture from day one</li>
+  <li>✅ Optimize for growth, performance & monetization</li>
+</ul>
+
+<hr />
+
+<!-- ===================== CURRENT WORK ===================== -->
+<h2>🔭 What I’m Currently Building</h2>
+
+<ul>
+ <li>📱 Production-ready Flutter mobile applications across diverse industries and use cases</li>
+  <li>🏗️ Reusable UI systems & clean architecture</li>
+  <li>🚀 Freelance & startup MVP products</li>
+</ul>
+
+<hr />
+
+<!-- ===================== CASE STUDIES ===================== -->
+<h2>📌 Selected Work & Case Studies</h2>
+
+<ul>
+  <li>
+    <strong>Fintech Wallet App</strong><br />
+    Built a secure Flutter-based wallet with authentication, transactions, and real-time updates.
+  </li>
+  <li>
+    <strong>E-commerce Mobile App</strong><br />
+    Developed scalable architecture with clean UI, performance optimization, and payment integration.
+  </li>
+  <li>
+    <strong>Startup MVP</strong><br />
+    Took idea from concept → MVP → production-ready app with growth-ready architecture.
+  </li>
+</ul>
+
+<p><em>More projects available on request.</em></p>
+
+<hr />
+
+<!-- ===================== SKILLS ===================== -->
+<h2>🛠️ Core Skills</h2>
+
+<ul>
+  <li>Flutter, Dart</li>
+  <li>Provider, Riverpod, GetX</li>
+  <li>Clean Architecture & Modular Design</li>
+  <li>API & Backend Integration</li>
+  <li>UI/UX Collaboration & Product Thinking</li>
+</ul>
+
+<hr />
+
+<!-- ===================== GITHUB STATS ===================== -->
+<h2 align="center">📊 GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="160" />
+</p>
+
+<hr />
+
+<!-- ===================== FINAL CTA ===================== -->
+<h2 align="center">📫 Let’s Work Together</h2>
+
+<p align="center">
+Looking for a <strong>Senior Flutter Developer</strong> who understands
+<strong>product, business, and scale</strong>?  
+Let’s build something impactful.
+</p>
